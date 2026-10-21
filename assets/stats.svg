@@ -4,23 +4,23 @@
 <rect width="760" height="230" rx="14" fill="url(#bg)"/>
 <text x="28" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="38" font-weight="700" fill="#e6edf3">16</text>
 <text x="28" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8b949e">public repos</text>
-<text x="268" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="38" font-weight="700" fill="#e6edf3">122</text>
+<text x="268" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="38" font-weight="700" fill="#e6edf3">124</text>
 <text x="268" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8b949e">stars earned</text>
 <text x="508" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="38" font-weight="700" fill="#e6edf3">10</text>
 <text x="508" y="86" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8b949e">followers</text>
-<rect x="28.0" y="118" width="517.1" height="14" fill="#dea584" clip-path="url(#bar)"/>
-<rect x="545.1" y="118" width="102.1" height="14" fill="#89e051" clip-path="url(#bar)"/>
-<rect x="647.2" y="118" width="55.7" height="14" fill="#3572A5" clip-path="url(#bar)"/>
-<rect x="703.0" y="118" width="8.6" height="14" fill="#ec915c" clip-path="url(#bar)"/>
-<rect x="711.6" y="118" width="7.8" height="14" fill="#663399" clip-path="url(#bar)"/>
-<rect x="719.4" y="118" width="7.2" height="14" fill="#555555" clip-path="url(#bar)"/>
-<rect x="726.5" y="118" width="5.5" height="14" fill="#8b949e" clip-path="url(#bar)"/>
+<rect x="28.0" y="118" width="515.4" height="14" fill="#dea584" clip-path="url(#bar)"/>
+<rect x="543.4" y="118" width="102.6" height="14" fill="#89e051" clip-path="url(#bar)"/>
+<rect x="646.0" y="118" width="57.2" height="14" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="703.2" y="118" width="8.5" height="14" fill="#ec915c" clip-path="url(#bar)"/>
+<rect x="711.7" y="118" width="7.7" height="14" fill="#663399" clip-path="url(#bar)"/>
+<rect x="719.4" y="118" width="7.1" height="14" fill="#555555" clip-path="url(#bar)"/>
+<rect x="726.6" y="118" width="5.4" height="14" fill="#8b949e" clip-path="url(#bar)"/>
 <circle cx="34" cy="161" r="6" fill="#dea584"/>
-<text x="46" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Rust 73.5%</text>
+<text x="46" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Rust 73.2%</text>
 <circle cx="212" cy="161" r="6" fill="#89e051"/>
-<text x="224" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Shell 14.5%</text>
+<text x="224" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Shell 14.6%</text>
 <circle cx="390" cy="161" r="6" fill="#3572A5"/>
-<text x="402" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Python 7.9%</text>
+<text x="402" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Python 8.1%</text>
 <circle cx="568" cy="161" r="6" fill="#ec915c"/>
 <text x="580" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9">Zig 1.2%</text>
 <circle cx="34" cy="187" r="6" fill="#663399"/>
