@@ -64,6 +64,18 @@ installer, an app store for Portage, terminal helpers, a screen streamer. I also
 
 </div>
 
+## Upstream work
+
+I work with [BreezyOps Development Labs](https://github.com/breezyops-devlabs), the company of
+[Daniel Robbins](https://github.com/danielrobbins) (creator of Gentoo and Funtoo): testing, bug reports and fixes for his
+open-source projects, plus work in the company's own repositories.
+
+| Project | What I sent |
+|---|---|
+| [**unroot**](https://github.com/danielrobbins/unroot) | Fixes and cleanups for the Linux root filesystem tool: OCI layers, foreign-arch entry through QEMU, test builds without LTO. |
+| [**keychain**](https://github.com/danielrobbins/keychain) | Fixes for the ssh-agent/gpg-agent manager: socket paths with `;`, csh history expansion. |
+| [**sprouted-code**](https://github.com/danielrobbins/sprouted-code) | Making the documented local checks pass, executable helper scripts. |
+
 ## More repositories
 
 | Repository | What it is | |
